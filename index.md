@@ -8,7 +8,6 @@
 
 Horizontal rule:
 ---
-
 ## List
 * Hi
 * Hello
