@@ -1,4 +1,4 @@
-# **How to use a course-specific account on ```ieng6```** 
+# **Lab Report 1:** How to use a course-specific account on ```ieng6```
 By: Sophia Yu
 
 <br>
