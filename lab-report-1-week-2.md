@@ -34,11 +34,9 @@ After you finishing downloading and you open VSCode, you will see this welcome s
 
 <br>
 
->1. Find your course-specific account for CSE15L here: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
-
-[comment]: ![Image](screenshots\Pt1_h.PNG)
 <img src="screenshots\Pt1_h.PNG" width=200px>
 
+>1. Find your course-specific account for CSE15L here: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 >2. Open a terminal in VSCode (Ctrl or Command + `, or use the Terminal → New Terminal menu option)
 >3. Type in this command: ```ssh cs15lwi22zz@ieng6.ucsd.edu``` but replace ```zz``` with the three letter of your own course-specific account
 >4. Follow the prompt
