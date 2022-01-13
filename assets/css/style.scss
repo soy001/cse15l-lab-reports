@@ -7,11 +7,11 @@ a {
   color: #8a0065;
 }
 
-body {
+/*body {
   background-color: #d5dbe3;
   margin-left: 80px;
   margin-right: 80px;
-}
+}*/
 
 blockquote {
   color: #1a3f7a;
@@ -24,7 +24,10 @@ a:hover {
 }
 
 div {
-  background-color: #91a3ba;
+  background-color: #d5dbe3;
+  border-left-color: #91a3ba;
+  border-left-style: solid;
+  border-left-width: 50px;
 }
 
 hr {  
