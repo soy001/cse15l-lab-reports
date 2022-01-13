@@ -1,17 +1,17 @@
 # **How to use a course-specific account on ```ieng6```** 
 By: Sophia Yu
 
-<br></b><br></b>
+<br><br>
 
 ## **Installing Visual Studio Code**
 
 > Visit the VSCode website to download the software: [click here](https://code.visualstudio.com/download)
 
-<br></b>
+<br> 
 
-<p style="text-align:center"><img src="screenshots\Pt1_a.PNG" width=40% ></p>
+<p style="text-align:center"><img src="screenshots\Pt1_a.PNG" width=40% ><img/></p>
 
-<p style="text-align:center">Depending on what computer you have, download the corresponding file
+<p style="text-align:center">Depending on what computer you have, download the corresponding file</p>
 
 <br> 
 
