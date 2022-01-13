@@ -9,9 +9,9 @@ By: Sophia Yu
 
 <br> 
 
-<p style="text-align:center"><img src="screenshots\Pt1_a.PNG" width=40% ><img/></p>
+![Image](screenshots\Pt1_a.PNG)
 
-<p style="text-align:center">Depending on what computer you have, download the corresponding file</p>
+Depending on what computer you have, download the corresponding file
 
 <br> 
 
@@ -19,9 +19,10 @@ By: Sophia Yu
 
 <br>
 
-<p style="text-align:center"><img src="screenshots\Pt1_c.PNG" width=40% >
+![Image](screenshots\Pt1_c.PNG)
 
-<p style="text-align:center">After you finishing downloading and you open VSCode, you will see this welcome screen
+
+After you finishing downloading and you open VSCode, you will see this welcome screen
 
 <br> 
 
@@ -39,7 +40,8 @@ By: Sophia Yu
 
 <br>
 
-<p style="text-align:center"><img src="screenshots\Pt1_h.PNG" width=20% >
+![Image](screenshots\Pt1_h.PNG)
+
 
 <br>
 
@@ -101,7 +103,7 @@ Here's a list of cool commands I tried + the outputs and explanations
 
 Check out this command ```ls -a```:
 
-<p style="text-align:center"><img src="screenshots\Pt1_d.PNG" width=90% >
+![Image](screenshots\Pt1_d.PNG)
 
 >Woah! Why are there so many items??
 
@@ -141,7 +143,7 @@ class WhereAmI{
 
 Here's my full process:
 
-<p style="text-align:center"><img src="screenshots\Pt1_e.PNG" width=70% >
+![Image](screenshots\Pt1_e.PNG)
 
 <br> 
 
@@ -157,7 +159,7 @@ Here's my full process:
 
 <br> Once it's a success, I am be able to login without having to type my password!
 
-<p style="text-align:center"><img src="screenshots\Pt1_f.PNG" width=70% >
+![Image](screenshots\Pt1_f.PNG)
 
 <br> 
 
@@ -177,7 +179,7 @@ Here's my full process:
 
 <br>
 
-<p style="text-align:center"><img src="screenshots\Pt1_g2.PNG" width=100% >
+![Image](screenshots\Pt1_g2.PNG)
 
 
 
