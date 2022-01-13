@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 a {
-  color: #8a0065;
+  color: #d2dded;
 }
 
 blockquote {
@@ -13,13 +13,16 @@ blockquote {
   font-weight: normal;
 }
 
+h3, h4, h5, h6 {
+  color: 
+}
 a:hover {
   color: #c9229d;
 }
 
 body {
   margin-top: 0px;
-  background-color: #d5dbe3;
+  background-color: #27273a;
 }
 
 hr {  
@@ -33,7 +36,7 @@ h2 {
 }
 
 header {
-  background-color: #ffffff;
+  background-color: #1f2330;
   height: 90%;
   padding: 20px;
 }
