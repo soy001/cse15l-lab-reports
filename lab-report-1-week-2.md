@@ -40,7 +40,9 @@ After you finishing downloading and you open VSCode, you will see this welcome s
 
 <br>
 
-![Image](screenshots\Pt1_h.PNG)
+[comment]: ![Image](screenshots\Pt1_h.PNG)
+<img src="screenshots\Pt1_h.PNG" width=40%>
+
 
 
 <br>
