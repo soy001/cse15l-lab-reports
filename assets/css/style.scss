@@ -9,6 +9,7 @@ a {
 
 body {
   background-color: #d5dbe3;
+  border-left: solid #91a3ba;
 }
 
 blockquote {
@@ -18,5 +19,9 @@ blockquote {
 }
 
 a:link {
-  color: #8a0065
+  color: #8a0065;
+}
+
+a:hover {
+  color: #a60f7e;
 }
