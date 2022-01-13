@@ -1,16 +1,14 @@
 # **How to use a course-specific account on ```ieng6```** 
 By: Sophia Yu
 
-<br><br>
+<br>
 
 ## **Installing Visual Studio Code**
 
 > Visit the VSCode website to download the software: [click here](https://code.visualstudio.com/download)
-
 <br> 
 
 ![Image](screenshots\Pt1_a.PNG)
-
 Depending on what computer you have, download the corresponding file
 
 <br> 
@@ -37,13 +35,10 @@ After you finishing downloading and you open VSCode, you will see this welcome s
 <br>
 
 >1. Find your course-specific account for CSE15L here: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) 
-
 <br>
 
 [comment]: ![Image](screenshots\Pt1_h.PNG)
 <img src="screenshots\Pt1_h.PNG" width=200px>
-
-
 
 <br>
 
