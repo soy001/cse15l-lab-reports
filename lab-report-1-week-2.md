@@ -40,7 +40,7 @@ After you finishing downloading and you open VSCode, you will see this welcome s
 >2. Open a terminal in VSCode (Ctrl or Command + `, or use the Terminal → New Terminal menu option)
 >3. Type in this command: ```ssh cs15lwi22zz@ieng6.ucsd.edu``` but replace ```zz``` with the three letter of your own course-specific account
 >4. Follow the prompt
->>**NOTE:** if your password does not work, make sure to reset it [here](https://password.ucsd.edu/)
+><**NOTE:** if your password does not work, make sure to reset it [here](https://password.ucsd.edu/)>
 
 <br>
 
