@@ -5,6 +5,7 @@
 ![Image](https://user-images.githubusercontent.com/97643006/149245080-0949f411-c92f-4106-b1cf-32f3d9982bea.png)
 ## Link to Lab 2:
 [Link](https://ucsd-cse15l-w22.github.io/week/week2/#motivation)
+
 ---
 
 
