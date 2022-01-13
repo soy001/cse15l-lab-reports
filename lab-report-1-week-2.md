@@ -2,7 +2,9 @@
 By: Sophia Yu
 
 <br><br>
+
 ## **Installing Visual Studio Code**
+
 > Visit the VSCode website to download the software: [click here](https://code.visualstudio.com/download)
 
 <br> 
@@ -28,6 +30,7 @@ By: Sophia Yu
 <br>
 
 ## **Remotely Connecting**
+
 >**NOTE: Before I started:** since I'm on **Windows**, I needed to install [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
 <br>
@@ -49,6 +52,7 @@ By: Sophia Yu
 <br>
 
 >4. Follow the prompt
+
 >>**NOTE:** if your password does not work, make sure to reset it [here](https://password.ucsd.edu/)
 
 <br>
@@ -96,9 +100,11 @@ Here's a list of cool commands I tried + the outputs and explanations
 <br>
 
 Check out this command ```ls -a```:
+
 <p style="text-align:center"><img src="screenshots\Pt1_d.PNG" width=90% >
 
 >Woah! Why are there so many items??
+
 >>```ls``` lists directory contents and ```-a``` stands for all, so this command lists all the contents within the directory I'm in
 
 <br>
@@ -117,6 +123,7 @@ Lastly, a cool and useful trick: press Ctrl/Cmd-D and type ```exit```
 <br>
 
 >First, I need a file:
+
 * Create a file in VSCode called ```whereAmI.java```
 ```
 class WhereAmI{
@@ -133,6 +140,7 @@ class WhereAmI{
 <br> 
 
 Here's my full process:
+
 <p style="text-align:center"><img src="screenshots\Pt1_e.PNG" width=70% >
 
 <br> 
@@ -148,6 +156,7 @@ Here's my full process:
 >Follow the steps here to create an SSH key: [click here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
 
 <br> Once it's a success, I am be able to login without having to type my password!
+
 <p style="text-align:center"><img src="screenshots\Pt1_f.PNG" width=70% >
 
 <br> 
@@ -161,7 +170,9 @@ Here's my full process:
 <br>
 
 > These are the two things I considered: **time** and **code-length**
+
 * With the key that we created in the previous section, it saves you a lot of time
+
 * Moreover, we can even shorten the number of times we have to ```enter``` in the command prompt too:
 
 <br>
