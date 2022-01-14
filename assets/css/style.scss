@@ -7,22 +7,22 @@ a {
   color: #f0b35c;
 }
 
-p {
-  color: #eceef7;
-}
-
-blockquote { 
-  color: #85e3d4 !important; 
+blockquote {
+  color: #85e3d4;
   border-left: 5px solid #4bc8e6;
   font-weight: normal;
 }
 
 h1 {
-  color: #d2dded !important;
+  color: #d2dded;
 }
 
 h2 {
-  color: #d4a1d9 !important;
+  color: #d4a1d9;
+}
+
+h3, h4, h5, h6 {
+  color: #eceef7;
 }
 
 a:hover {
