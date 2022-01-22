@@ -9,7 +9,7 @@ By: Sophia Yu
 > Visit the VSCode website to download the software: [click here](https://code.visualstudio.com/download)
 <br> 
 
-![Image](screenshots\Pt1_a.PNG)
+![Image](/screenshots/Pt1_a.PNG)
 Depending on what computer you have, download the corresponding file (I downloaded the Windows version)
 
 <br> 
