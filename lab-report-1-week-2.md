@@ -80,10 +80,10 @@ Here's a list of cool commands I tried + the outputs and explanations
 
 | Command | Description | Output |
 | ------- | ----------- | ------ |
-| cd      | changes directory (only if you specify a directory name) | ```blank```|
-| ls      | lists files in the directory | ```Main.class  Main.java  WhereAmI.class  perl5``` |
-| pwd     | prints the full name of the current directory | ```/home/linux/ieng6/cs15lwi22/cs15lwi22ane``` |
-| mkdir report1 | creates a new directory with the name ```report1``` | ```blank``` |
+| ```cd```      | changes directory (only if you specify a directory name) | ```blank```|
+| ```ls```      | lists files in the directory | ```Main.class  Main.java  WhereAmI.class  perl5``` |
+| ```pwd```     | prints the full name of the current directory | ```/home/linux/ieng6/cs15lwi22/cs15lwi22ane``` |
+| ```mkdir report1``` | creates a new directory with the name ```report1``` | ```blank``` |
 
 <br>
 
