@@ -13,14 +13,12 @@ By: Sophia Yu
 ## **Break 1 (Lab 3)**
 [link to branch](https://github.com/soy001/markdown-parse/tree/Fix-1)
 
-<br>
-
 1. Screenshot of change diff in Github: [[view on Github]](https://github.com/soy001/markdown-parse/commit/17dd3c31c7901e54816ab6c160f028e567795592)
 
 
 ![Image](/screenshots/Pt2_a.PNG)
 
-2. Link to test file with failure-inducing input: [click here](https://github.com/soy001/markdown-parse/blob/Fix-1/breaking-file.md?plain=1)
+2. Link to test file with failure-inducing input: [breaking-file.md](https://github.com/soy001/markdown-parse/blob/Fix-1/breaking-file.md?plain=1)
 
 3. Running the program:
 
@@ -39,14 +37,12 @@ By: Sophia Yu
 ## **Break 2 (Lab 3)**
 [link to branch](https://github.com/soy001/markdown-parse/tree/Fix-2)
 
-<br>
-
 1. Screenshot of change diff in Github: [[view on Github]](https://github.com/soy001/markdown-parse/commit/3ea64ac085c186d1f467f55b82aeda013248fdfe)
 
 
 ![Image](/screenshots/Pt2_b.PNG)
 
-2. Link to test file with failure-inducing input: [click here](https://github.com/soy001/markdown-parse/blob/Fix-2/another-file.md?plain=1)
+2. Link to test file with failure-inducing input: [another-file.md](https://github.com/soy001/markdown-parse/blob/Fix-2/another-file.md?plain=1)
 
 3. Running the program:
 
@@ -64,8 +60,6 @@ By: Sophia Yu
 
 ## **Break 3 (Lab 4)**
 [link to branch](https://github.com/soy001/markdown-parse/tree/Fix-3)
-
-<br>
 
 1. Screenshot of change diff in Github: [[view on Github]](https://github.com/soy001/markdown-parse/commit/12d18c61fafd536eae1df6592d62d1ded632f1b3)
 >**Note:** both breaks were able to be fixed with the same code change
