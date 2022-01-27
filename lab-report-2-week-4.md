@@ -26,7 +26,9 @@ By: Sophia Yu
 | ----- | ------ | -------- |
 | ```javac MarkdownParse.java```<br>```java MarkdownParse breaking-file.md``` | ```[but not really, https://www.google.com]```| ```[https://www.google.com]``` |
 
-4. Analysis:
+4. Analysis: 
+    
+    Besides the link in the file, there were also brackets and parenthesis used in other places. In this stage of the process, my code wasn't able to perform a comprehensive check on []'s and ()'s, so it assumed that the phrase inside the "fake link" was real. That is why "but not really" was also printed out.
 
 <br><br>
 
@@ -50,7 +52,10 @@ By: Sophia Yu
 | ----- | ------ | -------- |
 | ```javac MarkdownParse.java```<br>```java MarkdownParse another-file.md``` | ```infinite loop (terminal never closes)```| ```[thislinkwont(work).html]``` |
 
-4. Analysis:
+4. Analysis: 
+    
+    The link given in this markdown should be a "real link." However, because of the extra pair of () in the middle of the link, the program was never able to break out of the while loop. The loop continued to identify the inner (), which is why there was no end and the terminal was stuck in a forever loop.
+
 
 <br><br>
 
@@ -78,3 +83,6 @@ By: Sophia Yu
 
 4. Analysis:
 
+    The first file (test-file6.md) provides an image, not a link. However, the program still picks up the command as a link because it found []'s and ()'s. As a result, page.com was still listed as a link. 
+    
+    The second file (test-file7.md) provided this: )[. Because our program keeps track of the index of both open and closed brackets/parenthesis, there was an index-out-bounds exception because the "link" that we provided was missing some information. 
