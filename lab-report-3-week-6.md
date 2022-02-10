@@ -16,7 +16,9 @@ By: Sophia Yu
 
 * copied files: 
 
-    ![Image](/screenshots/Pt3_cc.PNG)
+![Image](/screenshots/Pt3_cc.PNG)
+
+> Note: we only need the .java, .md, junit imports, and makefile files. So, we add specific filters to our command to get those files.
 
 <br><br>
 
