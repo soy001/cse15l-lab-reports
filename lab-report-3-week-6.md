@@ -10,7 +10,7 @@ By: Sophia Yu
 
     ![Image](/screenshots/Pt3_b.PNG)
 
-* ieng6 ```ls``` after copying directory:   
+* ieng6 ```ls``` after copying directory (markdown-parse directory is created):   
 
     ![Image](/screenshots/Pt3_a.PNG)
 
@@ -32,6 +32,12 @@ By: Sophia Yu
 
     ![Image](/screenshots/Pt3_d.PNG)
 
+Step 1: log in with ```ssh ieng6``` (completed group task 1 to use ```ieng``` instead of ```cse15lwi22ane@ucsd.edu```)
+
+Step 2: open markdown-parse directory that was copied
+
+Step 3: use makefile to run the test by using the command ```make test``` (from Week 6 Lab)
+
 <br><br>
 
 ---
@@ -43,3 +49,5 @@ By: Sophia Yu
 * Command: ``` scp -r *.java *.md lib\ ieng6:~/markdown-parse; ssh ieng6 "cd markdown-parse/; make test"```
 
     ![Image](/screenshots/Pt3_e.PNG)
+
+    This commands runs everything I typed in the previous section in one line. And as you can see, it has the same output.
