@@ -13,8 +13,7 @@ By: Sophia Yu
 
 ## **Snippet 1**
 **Expected Output:** 
-
-![Image](/screenshots/Pt4_a.PNG)
+![Image](/screenshots/Pt4_a.png)
 
 Test Method:
 ```
@@ -53,8 +52,7 @@ java.lang.AssertionError: expected:<[url.com, `google.com, google.com, ucsd.edu]
 
 ## **Snippet 2**
 **Expected Output:** 
-
-![Image](/screenshots/Pt4_b.PNG)
+![Image](/screenshots/Pt4_b.png)
 
 Test Method: 
 ```
@@ -93,8 +91,7 @@ java.lang.AssertionError: expected:<[a.com, a.com((, example.com]> but was:<[a.c
 
 ## **Snippet 3**
 **Expected Output:**
-
-![Image](/screenshots/Pt4_c.PNG)
+![Image](/screenshots/Pt4_c.png)
 
 Test Method: 
 ```
