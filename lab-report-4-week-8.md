@@ -13,6 +13,7 @@ By: Sophia Yu
 
 ## **Snippet 1**
 **Expected Output:** 
+
 ![Image](/screenshots/Pt4_a.PNG)
 
 Test Method:
@@ -52,6 +53,7 @@ java.lang.AssertionError: expected:<[url.com, `google.com, google.com, ucsd.edu]
 
 ## **Snippet 2**
 **Expected Output:** 
+
 ![Image](/screenshots/Pt4_b.PNG)
 
 Test Method: 
@@ -91,6 +93,7 @@ java.lang.AssertionError: expected:<[a.com, a.com((, example.com]> but was:<[a.c
 
 ## **Snippet 3**
 **Expected Output:**
+
 ![Image](/screenshots/Pt4_c.PNG)
 
 Test Method: 
