@@ -12,6 +12,7 @@ By: Sophia Yu
 <br> 
 
 >NOTE: all expected outputs are from VSCode preview
+
 ## **Snippet 1**
 **Expected Output:** 
 ![Image](/screenshots/Pt4_a.png)
