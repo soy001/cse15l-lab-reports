@@ -5,7 +5,7 @@ By: Sophia Yu
 <br>
 
 ## **How I compared the results**
-For all the test files, I used diff to compare the results. First, I stored each of the outputs (from the two implementations) into text files. Then, I used diff to compare, using this command:
+For all the test files, I used ```diff``` to compare the results. First, I stored each of the outputs (from the two implementations) into text files. Then, I used diff to compare, using this command:
 ```
 [cs15lwi22ane@ieng6-202]:~:499$ diff your-markdown-parse/results.txt cse15l-markdown-parse/results.txt
 ```
@@ -84,7 +84,7 @@ From here, I had to manually check the lines using this command:
 ```
 [cs15lwi22ane@ieng6-202]:~:500$ sed -n '883p' results.txt
 ```
-> the number that goes inside the single-quotes is the line number (based off of my results from above)
+> the number that goes inside the single-quotes is the code line number (based off of my results from above)
 
 <br>
 
@@ -125,4 +125,4 @@ As we can see, the CSE15L implementation is incorrect. And this is because it re
 
 **This is where we should add more code:**
 ![Image](/screenshots/Pt5_b.png)
-Before we create the potentialLink String, we should check to make sure that the closed bracket is right before the open parenthesis. That's why the CSE15L implementation recognized the foo as a real link, because it didn't recognize the space.
+Before we create the potentialLink String, we should check to make sure that the close bracket is right before the open parenthesis. That's why the CSE15L implementation recognized the foo as a real link, because it overlooked the space.
