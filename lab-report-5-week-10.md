@@ -5,7 +5,7 @@ By: Sophia Yu
 <br>
 
 ## **How I compared the results**
-For all the test files, I used ```diff``` to compare the results. First, I stored each of the outputs (from the two implementations) into text files. Then, I used ```diff``` to compare, using this command:
+For all the test files, I used *diff* to compare the results. First, I stored each of the outputs (from the two implementations) into text files. Then, I used *diff* to compare, using this command:
 ```
 [cs15lwi22ane@ieng6-202]:~:499$ diff your-markdown-parse/results.txt cse15l-markdown-parse/results.txt
 ```
